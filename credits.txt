@@ -1,0 +1,3 @@
+[1] Ukuwi, Editor Enhancer free version -  used as starting boilerplate for shortcuts and enqueuing ui scripts
+[2] A. Buzmakov - Inspiration for Vodka theme
+[3] A. Larsen - https://codepen.io/larsenwork/pen/peNwLd, used for Grid Guide Mode
