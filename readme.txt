@@ -34,12 +34,12 @@ Settings to improve fronted development and design debug
 	•[2-4] Style inspector - activate it, it will be under structure panel with single key shortcut you can see applied CSS for ID or Class
 	•[2-5] Viewport handles: Inspired by aformal issue (#611) on github: “A label that show the current device width / window width of the Oxygen builder window.You could make this even more useful, if the handle snaps to certain breakpoints or device widths. What are the use cases for this feature? Judge a design choice directly in Oxygen. Less double checking between Oxygen and the browser -> enhanced usability, saving time.”
 
-[2] Command line 
+[3] Command line 
 Inspired by emmet, done in oxygen way so it parse command and executes oxygen native functions to get some kind of emmet for generating quick oxygen elements
-	•[2-1] Add multiple classes :: syntax:: .class1.class2.class3
-	•[2-2] Add multiple elements with custom tags :: syntax:: >ul>li+li+a
-	•[2-3] Add multiple elements with custom tags  + grouping one level:: syntax:: >ul>(li+li>a)*5+p
-	•[2-4] Add multiple elements with custom tags  + grouping one level + multiple classes:: syntax:: >ul.myclass.class1>(li.class2+li.myclass>a.other-class)*5+p.class1
+	•[3-1] Add multiple classes :: syntax:: .class1.class2.class3
+	•[3-2] Add multiple elements with custom tags :: syntax:: >ul>li+li+a
+	•[3-3] Add multiple elements with custom tags  + grouping one level:: syntax:: >ul>(li+li>a)*5+p
+	•[3-4] Add multiple elements with custom tags  + grouping one level + multiple classes:: syntax:: >ul.myclass.class1>(li.class2+li.myclass>a.other-class)*5+p.class1
 
 
 = Troubleshooting =
